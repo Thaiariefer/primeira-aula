@@ -7,6 +7,17 @@ body{
 h1, h2{
     color: fuchsia;
     text-align: center;
-    font-weight: 400;
+    font-weight: 800;
+}
+p{
+    margin-left: 10px;
+    
 }
 
+button{
+    border: solid blue 2px;
+    background-color: aliceblue;
+    background-origin: padding-box;
+    border: 10px;
+    padding: 10;
+}
